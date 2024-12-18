@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 ## 🛠️ Technologies & Tools
 
 ![SSMS](https://img.shields.io/badge/-SSMS-333333?style=flat&logo=microsoft-sql-server)
-![MS SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MSSQL)
+![MS SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=microsoft-sql)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)

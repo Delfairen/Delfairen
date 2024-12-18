@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/johnlhall/))
+- LinkedIn: (https://www.linkedin.com/in/johnlhall/))
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 

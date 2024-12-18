@@ -13,8 +13,10 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 
 ## 🛠️ Technologies & Tools
 
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
 ## 📈 GitHub Stats
